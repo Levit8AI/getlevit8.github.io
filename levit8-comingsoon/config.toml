@@ -1,0 +1,16 @@
+baseURL = "https://www.getlevit8.com"
+languageCode = 'en-us'
+theme = "coming-soon"
+
+[params]
+    title = "Levit8: Something interesting is coming..." 
+    description = "Stay tuned..."
+    message = "We're cooking up some interesting stuff." # default is "COMING SOON" 
+    release = "Nov 23, 2023" # release date format: Aug 30, 2023 15:00
+    background = "" # default is bg.mp4 in static/
+
+socialIcons = [
+    {name = "email", url = "info@getlevit8.com"},      
+    {name = "twitter", url = "https://twitter.com/getLevit8"},    
+    {name = "facebook", url = "https://facebook.com/getLevit8"},    
+] 
